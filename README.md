@@ -49,7 +49,7 @@ See [my website](https://www.christhompsondev.com/) for more information!
       <h3 align="center">Boho Cabin Pizza Portal</h3>
         <br />
       <a target="_blank" href="https://bohocabinpizza.netlify.app/">
-            <img src="images/gif2.gif" width="100%"  alt="pizzaPortal"/>
+            <img src="images/bohoCabinPizzaPortal.gif" width="100%"  alt="pizzaPortal"/>
         </a>
         <br />
         <p align="center">
