@@ -99,7 +99,7 @@ See [my website](https://www.christhompsondev.com/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - An app that works just ike the stereo in the game!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - An app that works just like the stereo in the game!</p>
     </td>
   </tr>
 </table>
