@@ -46,22 +46,22 @@ See [my website](https://www.christhompsondev.com/) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - App to help players keep track of in game collectibles in Animal Crossing: New Horizons!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Boho Cabin Pizza Portal</h3>
+      <h3 align="center">Restaurant Savore</h3>
         <br />
-      <a target="_blank" href="https://bohocabinpizza.netlify.app/">
-            <img src="images/bohoCabinPizzaPortal.gif" width="100%"  alt="pizzaPortal"/>
+      <a target="_blank" href="https://restaurantsavore.netlify.app/">
+            <img src="images/cuisineRestaurant.gif" width="100%"  alt="restaurantSavore"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/ChrisThompsonDev/BohoCabinPizzaPortal" target="_blank">
+  <a href="https://github.com/ChrisThompsonDev/restaurantSavore" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://bohocabinpizza.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Now my family can put in their orders when we have pizza night!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This is a site that I built for a 5 star restaurant. It is a clean and open layout allowing for plenty of text and background images.</p>
     </td>
   </tr>
   
