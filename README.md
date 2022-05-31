@@ -31,7 +31,7 @@ See [my website](https://www.christhompsondev.com/) for more information!
       <h3 align="center">ACNH Tracking Tools</h3>
         <br />
         <a target="_blank" href="https://acnhcollections.netlify.app/">
-            <img src="images/acnhTrackingTools.gif" width="100%" alt="ACNHTools"/>
+            <img src="images/acnhTrackingTools2.gif" width="100%" alt="ACNHTools"/>
         </a>
         <br />
         <p align="center">
