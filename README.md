@@ -36,7 +36,7 @@ See [my website](https://www.christhompsondev.com/) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/ChrisThompsonDev/acnhMusicTracker" target="_blank">
+  <a href="https://github.com/ChrisThompsonDev/acnhTrackingTools-mvc" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://acnhtracking.cyclic.app/" target="_blank">
