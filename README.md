@@ -43,7 +43,7 @@ See [my website](https://www.christhompsondev.com/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - App to help players keep track of in game collectibles in Animal Crossing: New Horizons!</p>
+        <p><strong>HTML5, CSS3, Javascript, Node.js & MongoDB</strong> - A Fullstack, MVC, App to help players keep track of in game collectibles in Animal Crossing: New Horizons! Complete with user logins. </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Restaurant Savore</h3>
