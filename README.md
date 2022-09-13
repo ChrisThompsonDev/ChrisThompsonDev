@@ -84,22 +84,22 @@ See [my website](https://www.christhompsondev.com/) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Animal Crossing Music Player</h3>
+      <h3 align="center">Landing Page Baisc</h3>
         <br />
-        <a target="_blank" href="https://acnhmusicplayer.netlify.app/">
-          <img src="images/acnhMusicPlayer.gif" width="100%" alt="acnhMusic Player"/>
+        <a target="_blank" href="https://landingpagebasic.netlify.app/">
+          <img src="images/landingPageBasic.gif" width="100%" alt="Landing Page Basic"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/ChrisThompsonDev/Animal-Crossing-KK-Slider-Music-Player" target="_blank">
+  <a href="https://github.com/ChrisThompsonDev/landingPageBasic" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://acnhmusicplayer.netlify.app/" target="_blank">
+  <a href="https://landingpagebasic.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - An app that works just like the stereo in the game!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A simple landing site for any business. Built using mobile first ideology and using JS for the collapsible menu icon.</p>
     </td>
   </tr>
 </table>
