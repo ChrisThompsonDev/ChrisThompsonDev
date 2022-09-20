@@ -66,7 +66,7 @@ See [my website](https://www.christhompsondev.com/) for more information!
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <h3 align="center">ChrisThompsonDev.com</h3>
       <br />
         <a target="_blank" href="https://www.christhompsondev.com/">
@@ -74,17 +74,34 @@ See [my website](https://www.christhompsondev.com/) for more information!
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/ChrisThompsonDev/Portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://www.christhompsondev.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+          <a href="https://github.com/ChrisThompsonDev/Portfolio" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://www.christhompsondev.com/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+      <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td> -->
+    <td width="50%" valign="top">
+      <h3 align="center">Forty One</h3>
+      <br />
+        <a target="_blank" href="https://html5upfortyclone.netlify.app/">
+          <img src="https://github.com/ChrisThompsonDev/HTML5UP-Forty-Clone/blob/main/images/html5upfortyclone.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+          <a href="https://github.com/ChrisThompsonDev/HTML5UP-Forty-Clone" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://html5upfortyclone.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+      </p>
+      <p><strong>HTML5, CSS3, & Javascript</strong> - A clone of the HTML5Up Template "Forty"</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Landing Page Baisc</h3>
+      <h3 align="center">Landing Page Basic</h3>
         <br />
         <a target="_blank" href="https://landingpagebasic.netlify.app/">
           <img src="images/landingPageBasic.gif" width="100%" alt="Landing Page Basic"/>
