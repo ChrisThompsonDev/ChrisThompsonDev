@@ -28,22 +28,22 @@ See [my website](https://www.christhompsondev.com/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ACNH Tracking Tools</h3>
+      <h3 align="center">Pokemon SV Tracker</h3>
         <br />
-        <a target="_blank" href="https://github.com/ChrisThompsonDev/acnhTrackingTools-mvc">
-            <img src="images/acnhTrackingTools.gif" width="100%" alt="ACNHTools"/>
+        <a target="_blank" href="https://github.com/ChrisThompsonDev/PokemonScarletVioletTools">
+            <img src="images/PokemonSVTracker.gif" width="100%" alt="ACNHTools"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/ChrisThompsonDev/acnhTrackingTools-mvc" target="_blank">
+  <a href="https://github.com/ChrisThompsonDev/PokemonScarletVioletTools" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://acnhtracking.cyclic.app/" target="_blank">
+  <a href="https://pokemonsvtracker.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, Node.js & MongoDB</strong> - A Fullstack, MVC, App to help players keep track of in game collectibles in Animal Crossing: New Horizons! Complete with user logins. </p>
+        <p><strong>HTML5, CSS3, Javascript, Node.js & MongoDB</strong> - A Fullstack, MVC, App to help Pokemon Scarlet & Violet players keep track of their Pokedex and Storyline progress! Complete with user logins. </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Restaurant Savore</h3>
