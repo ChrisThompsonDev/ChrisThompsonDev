@@ -31,7 +31,7 @@ See [my website](https://www.christhompsondev.com/) for more information!
       <h3 align="center">Pokemon SV Tracker</h3>
         <br />
         <a target="_blank" href="https://github.com/ChrisThompsonDev/PokemonScarletVioletTools">
-            <img src="images/PokemonSVTracker.gif" width="100%" alt="ACNHTools"/>
+            <img src="images/PokemonSVTracker.gif" width="100%" alt="PokemonTracker"/>
         </a>
         <br />
         <p align="center">
@@ -39,7 +39,7 @@ See [my website](https://www.christhompsondev.com/) for more information!
   <a href="https://github.com/ChrisThompsonDev/PokemonScarletVioletTools" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://pokemonsvtracker.onrender.com/" target="_blank">
+  <a href="https://pokemontracker.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
