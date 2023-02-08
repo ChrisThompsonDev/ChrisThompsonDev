@@ -45,7 +45,34 @@ See [my website](https://www.christhompsondev.com/) for more information!
       </p>
         <p><strong>HTML5, CSS3, Javascript, Node.js & MongoDB</strong> - A Fullstack, MVC, App to help Pokemon Scarlet & Violet players keep track of their Pokedex and Storyline progress! Complete with user logins. </p>
     </td>
-    <td width="50%" valign="top">
+
+  <td width="50%" valign="top">
+      <h3 align="center">My Portfolio</h3>
+        <br />
+        <a target="_blank" href="https://www.christhompsondev.com/">
+          <img src="images/GossipGirlPortfolio.gif" width="100%" alt="Gossip Girl Portfolio"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ChrisThompsonDev/Portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://www.christhompsondev.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - My portfolio site. Built from scratch based on the opening screenshot of the original Gossip Girl episodes from 2007.</p>
+    </td>
+
+
+
+
+    
+  </tr>
+  
+  <tr>
+  <td width="50%" valign="top">
       <h3 align="center">Restaurant Savore</h3>
         <br />
       <a target="_blank" href="https://restaurantsavore.netlify.app/">
@@ -63,26 +90,6 @@ See [my website](https://www.christhompsondev.com/) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - This is a site that I built for a 5 star restaurant. It is a clean and open layout allowing for plenty of text and background images.</p>
     </td>
-  </tr>
-  
-  <tr>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">ChrisThompsonDev.com</h3>
-      <br />
-        <a target="_blank" href="https://www.christhompsondev.com/">
-          <img src="images/portfolio.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-          <a href="https://github.com/ChrisThompsonDev/Portfolio" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-          </a>
-          <a href="https://www.christhompsondev.com/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
-      </p>
-      <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td> -->
     <td width="50%" valign="top">
       <h3 align="center">Forty One</h3>
       <br />
@@ -99,24 +106,6 @@ See [my website](https://www.christhompsondev.com/) for more information!
           </a>
       </p>
       <p><strong>HTML5, CSS3, & Javascript</strong> - A clone of the HTML5Up Template "Forty"</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Landing Page Basic</h3>
-        <br />
-        <a target="_blank" href="https://landingpagebasic.netlify.app/">
-          <img src="images/landingPageBasic.gif" width="100%" alt="Landing Page Basic"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/ChrisThompsonDev/landingPageBasic" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://landingpagebasic.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A simple landing site for any business. Built using mobile first ideology, fully responsive, complete with a collapsible menu icon.</p>
     </td>
   </tr>
 </table>
